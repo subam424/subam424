@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subam424
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me subams297@gmail.com
 - 😄 Pronouns: 
