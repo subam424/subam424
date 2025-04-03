@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @subam424
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Advanced Python
 - 📫 How to reach me subams297@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I write code. Sometimes, it even works!
 
 <!---
 subam424/subam424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
