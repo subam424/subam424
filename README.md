@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subam424
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Advanced Python
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me subams297@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write code. Sometimes, it even works!
